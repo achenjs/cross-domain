@@ -2,7 +2,7 @@
 
 ### 安装
 
-`npm install cross-domain -g`
+`npm install chrome-cross-domain -g`
 
 ### 使用
 
