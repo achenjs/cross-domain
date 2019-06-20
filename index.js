@@ -1,6 +1,10 @@
+const path = require('path')
 const process = require('child_process')
 const chalk = require('chalk')
-process.exec('sh  ./bin/chrome.sh', (error, stdout, stderr) => {
+const chromeSh = path.join(__dirname,'/bin/chrome.sh')
+console.log(__dirname)
+console.log(chromeSh)
+process.exec(`sh  ${chromeSh}`, (error, stdout, stderr) => {
     console.log(`提示：${chalk.yellow('使用此命令前请确保chrome是关闭的')}`);
     if (error) {
         console.log(`${chalk.red(error)}`)
