@@ -1,0 +1,23 @@
+{
+  "name": "chrome-cross-domain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "cross-domain": "./lib/cli.js"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manpenghui/cross-domain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manpenghui/cross-domain/issues"
+  },
+  "homepage": "https://github.com/manpenghui/cross-domain#readme"
+}
