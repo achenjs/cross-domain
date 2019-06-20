@@ -1,10 +1,10 @@
 {
   "name": "chrome-cross-domain",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
-    "cross-domain": "./lib/cli.js"
+    "cross-domain": "./bin/cross-domain"
   },
   "scripts": {
     "test": "node index.js"
@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/manpenghui/cross-domain/issues"
   },
-  "homepage": "https://github.com/manpenghui/cross-domain#readme"
+  "homepage": "https://github.com/manpenghui/cross-domain#readme",
+  "dependencies": {}
 }
