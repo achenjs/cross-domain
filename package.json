@@ -20,5 +20,7 @@
     "url": "https://github.com/manpenghui/cross-domain/issues"
   },
   "homepage": "https://github.com/manpenghui/cross-domain#readme",
-  "dependencies": {}
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
 }
