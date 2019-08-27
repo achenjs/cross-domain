@@ -1,5 +1,5 @@
 {
-  "name": "chrome-cross-domain",
+  "name": "cross-domain",
   "version": "1.0.0",
   "description": "谷歌跨域设置脚本",
   "main": "index.js",
@@ -14,12 +14,12 @@
     "url": "git+https://github.com/achenjs/cross-domain"
   },
   "keywords": [],
-  "author": "",
+  "author": "achenjs",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/manpenghui/cross-domain/issues"
+    "url": "https://github.com/achenjs/cross-domain/issues"
   },
-  "homepage": "https://github.com/manpenghui/cross-domain#readme",
+  "homepage": "https://github.com/achenjs/cross-domain#readme",
   "dependencies": {
     "chalk": "^2.4.2"
   }
