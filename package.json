@@ -1,7 +1,7 @@
 {
   "name": "chrome-cross-domain",
-  "version": "1.0.7",
-  "description": "",
+  "version": "1.0.0",
+  "description": "谷歌跨域设置脚本",
   "main": "index.js",
   "bin": {
     "cross-domain": "./bin/cross-domain"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manpenghui/cross-domain.git"
+    "url": "git+https://github.com/achenjs/cross-domain"
   },
   "keywords": [],
   "author": "",
