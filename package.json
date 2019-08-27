@@ -1,26 +1,29 @@
 {
-  "name": "cross-domain",
+  "name": "a-cross-domain",
   "version": "1.0.0",
-  "description": "谷歌跨域设置脚本",
+  "description": "### 安装",
   "main": "index.js",
-  "bin": {
-    "cross-domain": "./bin/cross-domain"
+  "dependencies": {
+    "ansi-styles": "^3.2.1",
+    "color-name": "^1.1.3",
+    "chalk": "^2.4.2",
+    "color-convert": "^1.9.3",
+    "has-flag": "^3.0.0",
+    "escape-string-regexp": "^1.0.5",
+    "supports-color": "^5.5.0"
   },
+  "devDependencies": {},
   "scripts": {
-    "test": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/achenjs/cross-domain"
+    "url": "git+https://github.com/achenjs/cross-domain.git"
   },
-  "keywords": [],
-  "author": "achenjs",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/achenjs/cross-domain/issues"
   },
-  "homepage": "https://github.com/achenjs/cross-domain#readme",
-  "dependencies": {
-    "chalk": "^2.4.2"
-  }
+  "homepage": "https://github.com/achenjs/cross-domain#readme"
 }
