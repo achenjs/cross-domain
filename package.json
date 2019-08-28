@@ -13,6 +13,9 @@
     "has-flag": "^3.0.0",
     "supports-color": "^5.5.0"
   },
+  "bin": {
+    "cross-domain": "./bin/cross-domain"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
