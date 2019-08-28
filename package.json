@@ -1,9 +1,10 @@
 {
   "name": "a-cross-domain",
   "version": "1.0.0",
-  "description": "### 安装",
+  "description": "开发环境解决谷歌跨域脚本",
   "main": "index.js",
-  "dependencies": {
+  "author": "achenjs",
+  "devDependencies": {
     "ansi-styles": "^3.2.1",
     "chalk": "^2.4.2",
     "color-convert": "^1.9.3",
@@ -12,7 +13,6 @@
     "has-flag": "^3.0.0",
     "supports-color": "^5.5.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,7 +20,6 @@
     "type": "git",
     "url": "git+https://github.com/achenjs/cross-domain.git"
   },
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/achenjs/cross-domain/issues"
