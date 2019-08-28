@@ -1,10 +1,10 @@
 {
   "name": "cross-domain-chrome",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "开发环境解决谷歌跨域脚本",
   "main": "index.js",
   "author": "achenjs",
-  "devDependencies": {
+  "dependencies": {
     "ansi-styles": "^3.2.1",
     "chalk": "^2.4.2",
     "color-convert": "^1.9.3",
@@ -19,6 +19,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "cross",
+    "shell",
+    "node"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/achenjs/cross-domain.git"
