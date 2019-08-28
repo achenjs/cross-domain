@@ -1,6 +1,6 @@
 {
-  "name": "a-cross-domain",
-  "version": "1.0.0",
+  "name": "cross-domain-chrome",
+  "version": "1.0.2",
   "description": "开发环境解决谷歌跨域脚本",
   "main": "index.js",
   "author": "achenjs",
